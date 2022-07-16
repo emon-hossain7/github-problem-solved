@@ -2,4 +2,4 @@
 Github related any issue solved in this repository.
 
 
-## List of github problem:
+## List of github problems:
