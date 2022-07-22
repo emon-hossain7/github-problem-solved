@@ -9,11 +9,10 @@ Github related any issue solved in this repository.
 
 
 
-### netlifyDeploy
+### 
 
 ```js
 // step 1 
-$ npm run build
 
 // step 3 
 
