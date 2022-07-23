@@ -13,7 +13,7 @@ Github related any issue solved in this repository.
 
 ```js
 // Problem
-if you have fatal: remote origin already exists.
+if you have (fatal: remote origin already exists.)
 // Solved
 rm -rf .git
 
