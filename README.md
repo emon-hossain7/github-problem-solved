@@ -4,18 +4,18 @@ Github related any issue solved in this repository.
 
 ## List of github problems:
 
-- [netlifyDeploy](#netlifyDeploy)
+- [fataLRemoteOriginAlreadyExists](#fataLRemoteOriginAlreadyExists)
 - [originSetUrl](#originSetUrl)
 
 
 
-### 
+### fataLRemoteOriginAlreadyExists
 
 ```js
-// step 1 
-
-// step 3 
-
+// Problem
+if you have fatal: remote origin already exists.
+// Solved
+rm -rf .git
 
 ```
 ### originSetUrl
